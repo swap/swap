@@ -1,6 +1,6 @@
 Hi there👋
 
-I'm yasir also known by most as **tess**, am a reverse Engineer & full-stack developer, currently studying a BSc (Honours) in Computer Science with Artificial Intelligence and self learning Quantum Technology & Physics, i love developing projects when existing solutions are too expensive, don't suit my taste, or simply don't exist, while also enjoying reverse engineering systems to understand how they work and exploring different programming languages and approaches.
+I'm yasir also known by most as **tess**, am a reverse Engineer & full-stack developer, currently studying a BSc (Honours) in Computer Science with Artificial Intelligence, i love developing projects for myself and making them public you can see [my portfilio](https://tess.sh} for more info.
 
 [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=for-the-badge&color=222222&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D37648%26label_color%3D334155%26language%3Dspent)](https://codetime.dev)
 
