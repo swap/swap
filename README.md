@@ -6,8 +6,7 @@ I'm yasir also known by most as **tess**, am a reverse Engineer & full-stack dev
 
 Currently working on:
 
-I have made many projects, which some you can see at [`projects.md`](https://github.com/swap/projects.md).
-Though currently am working on **`Varay`**, a personal assistant I'm building it with **Python**, **PostgreSQL**, **Redis**, **NumPy**, **PyTorch**, **LangGraph**, **Ollama**, etc.
+ **`Varay`**, a personal assistant I'm building it with **Python**, **PostgreSQL**, **Redis**, **NumPy**, **PyTorch**, **LangGraph**, **Ollama**, etc.
 
 Contact Me:
 - Dolls: [`/tess`](https://dol.ls/tess)
